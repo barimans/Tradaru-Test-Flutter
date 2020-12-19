@@ -1,6 +1,10 @@
 # tradaru_test
 
-A new Flutter application.
+Simple Apps for Tradaru Test with Flutter and BLoC pattern
+
+![](https://i.postimg.cc/9zKhbVf1/Splash.png)
+![](https://i.postimg.cc/mt9G6qz4/List.png)
+![](https://i.postimg.cc/BtX32tJX/Detail.png)
 
 ## Getting Started
 
