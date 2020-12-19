@@ -1,0 +1,88 @@
+{
+  "product_item": [
+    {
+      "id_product": 1,
+      "name_product": "Tas Gunung Hijau",
+      "image_product": "https://cf.shopee.co.id/file/e858ef282ab65f57f405fbbb4b953821",
+      "price_product": "Rp. 450.000",
+      "is_favorite": false,
+      "category": "MOUNT",
+      "rating": "3.5",
+      "sold": "254",
+      "is_discount": false,
+      "discount_price": "Rp. 0"
+    },
+    {
+      "id_product": 2,
+      "name_product": "Tas Gunung Biru",
+      "image_product": "https://merkbagus.id/wp-content/uploads/2019/11/Tas-Gunung-Avtech-Galoa.jpg",
+      "price_product": "Rp. 500.000",
+      "is_favorite": false,
+      "category": "MOUNT",
+      "rating": "2.5",
+      "sold": "155",
+      "is_discount": true,
+      "discount_price": "Rp. 350.000"
+    },
+    {
+      "id_product": 3,
+      "name_product": "Tas Gunung Hitam",
+      "image_product": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//91/MTA-1871254/eiger_eiger-tas-gunung-pria-appalachia-45l---hitam_full05.jpg",
+      "price_product": "Rp. 750.000",
+      "is_favorite": false,
+      "category": "MOUNT",
+      "rating": "3.0",
+      "sold": "345",
+      "is_discount": false,
+      "discount_price": "Rp. 0"
+    },
+    {
+      "id_product": 4,
+      "name_product": "Tas Gunung Merah",
+      "image_product": "https://s1.bukalapak.com/uploads/content_attachment/61a872f8b0926369700fa6b5/w-744/1_1_42.jpg",
+      "price_product": "Rp. 600.000",
+      "is_favorite": false,
+      "category": "MOUNT",
+      "rating": "3.5",
+      "sold": "408",
+      "is_discount": false,
+      "discount_price": "Rp. 0"
+    },
+    {
+      "id_product": 5,
+      "name_product": "Tas Gunung Army",
+      "image_product": "https://www.jakartanotebook.com/images/products/19/63/35917/85/tas-ransel-hiking-camping-mountaineering-military-army-green-43.jpg",
+      "price_product": "Rp. 850.000",
+      "is_favorite": false,
+      "category": "MOUNT",
+      "rating": "4.5",
+      "sold": "997",
+      "is_discount": false,
+      "discount_price": "Rp. 0"
+    },
+    {
+      "id_product": 6,
+      "name_product": "Tas Kantor Coklat",
+      "image_product": "https://www.urbanicon.co.id/magazine/wp-content/uploads/2019/04/Haskell-Double-Zip-Workbag-Tan.jpg",
+      "price_product": "Rp. 250.000",
+      "is_favorite": false,
+      "category": "OFFICE",
+      "rating": "3.5",
+      "sold": "350",
+      "is_discount": true,
+      "discount_price": "Rp. 175.000"
+    },
+    {
+      "id_product": 7,
+      "name_product": "Tas Kantor Hitam",
+      "image_product": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/4/6/852700/852700_a44431d8-bee3-4d47-8ebc-721065e283c7.jpg",
+      "price_product": "Rp. 100.000",
+      "is_favorite": false,
+      "category": "OFFICE",
+      "rating": "4.5",
+      "sold": "1.004",
+      "is_discount": false,
+      "discount_price": "Rp. 0"
+    }
+  ]
+}
